@@ -1,5 +1,5 @@
 ! name: Crypto Twitter
-! description: Search the top 2500 Crypto Twitter accounts, ranked by their influence
+! description: Search the top 2500 Crypto Twitter accounts, ranked by their influence measured by hive.one
 ! public: true
 ! author: seichris
 ! issues: https://github.com/seichris/goggles-quickstart/issues/new
