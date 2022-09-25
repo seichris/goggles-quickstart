@@ -7,3 +7,4 @@
 
 $discard
 $boost=4,site=reddit.com
+$boost=55,site=instagram.com
