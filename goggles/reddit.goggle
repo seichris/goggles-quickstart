@@ -1,5 +1,5 @@
 ! name: Reddit Goggle
-! description: Prioritizes Reddit, minus those that would rank among the top 1000 most-viewed websites.
+! description: Show results from Reddit only, minus those that would rank among the top 1000 most-viewed websites.
 ! public: true
 ! author: seichris
 ! issues: https://github.com/seichris/goggles-quickstart/issues/new
